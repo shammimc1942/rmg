@@ -4,7 +4,16 @@
 <!-- Mirrored from roadflux.site/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 03 Feb 2026 16:02:38 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-  
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5PK5BVK6TZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5PK5BVK6TZ');
+</script>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
   
@@ -600,4 +609,5 @@
 </body>
 
 <!-- Mirrored from roadflux.site/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 03 Feb 2026 16:03:18 GMT -->
+
 </html>
